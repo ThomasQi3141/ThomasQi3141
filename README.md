@@ -1,6 +1,6 @@
 # Hey, I'm Thomas
 
-I'm a first-year CS student at the University of Waterloo, and a full-stack/iOS developer who's passionate about data science and machine learning 🙂
+I'm a first-year CS student at the University of Waterloo, and a full-stack/iOS developer who's passionate about machine learning 🙂
 
 
 ## Check out some of my cool projects:
