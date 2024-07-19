@@ -1,7 +1,8 @@
 # Hey, I'm Thomas
 
-I'm a first-year CS student at the University of Waterloo who's skilled in full-stack development and passionate about machine learning 🙂
+I'm a second-year Computer Science student at the University of Waterloo who's skilled in full-stack development and passionate about machine learning :)
 
+<a href="https://www.thomasqi.com/" target="_blank">thomasqi.com</a>
 
 ## Check out some of my cool projects:
 [Sentiment Analysis Modal](https://github.com/ThomasQi3141/Sentiment-Analysis-Model) - A binary classification model that uses CNNs to analyze the sentiment of movie reviews <br />
