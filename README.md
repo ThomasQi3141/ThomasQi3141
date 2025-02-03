@@ -1,6 +1,6 @@
 # Hey, I'm Thomas
 
-I'm a second-year Computer Science student at the University of Waterloo who's skilled in full-stack development and passionate about machine learning :)
+I'm a Computer Science student at the University of Waterloo who's skilled in full-stack development and passionate about machine learning :)
 
 <a href="https://www.thomasqi.com/" target="_blank">thomasqi.com</a>
 
