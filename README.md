@@ -1,6 +1,6 @@
 # Hey, I'm Thomas
 
-I'm a 2nd Year Computer Science student at the University of Waterloo. I'm mostly interested in full-stack & backend development, but dabble in a bit of other topics here and there (Web3, ML, etc).
+I'm a 2nd Year Computer Science student at the University of Waterloo. I'm interested in full-stack/backend development, Web3, & ML.
 
 <a href="https://www.thomasqi.com/" target="_blank">thomasqi.com</a>
 
