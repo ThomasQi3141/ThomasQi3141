@@ -2,7 +2,6 @@
 
 I'm a 2nd Year Computer Science student at the University of Waterloo. I'm interested in full-stack/backend development, Web3, & ML.
 
-<a href="https://www.thomasqi.com/" target="_blank">thomasqi.com</a>
 
 ## Check out some of my projects!
 [SyncSpark.net](https://github.com/ThomasQi3141/syncspark) - A real-time code editor that enables multiple developers to write & run code at the same time  <br />
